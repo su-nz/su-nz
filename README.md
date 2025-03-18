@@ -1,17 +1,36 @@
-<h1 align="center">Hi 👋, I'm NZ SU</h1>
-<h3 align="center">🚀 NTNU CSIE Student | Exploring Cybersecurity, Networking & Programming</h3>
+<h1 align="center">Hi👋, I'm NZ</h1>
+<h5 align="center">🔒Cybersecurity🔒, 🔗Networking🔗 , 💻Programming💻</h5>
+
+---
 
 - 🌱 I’m currently learning **Network-Administration, Cybersecurity**
-
-- 👨‍💻 All of my projects are available at [https://github.com/su-nz](https://github.com/su-nz)
-
-- 📝 I regularly write articles on [https://www.facebook.com/suenlitn](https://www.facebook.com/suenlitn)
-
 - 💬 Ask me about **Netflix, TV series**
 
-- 📫 How to reach me **suenlitn@gmail.com**
+---
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/nz-su/](https://www.linkedin.com/in/nz-su/)
+# Education
+🎓 Studying Computer Science & Information Engineering at NTNU  
+🏫 **Hsin Hua Senior High School (HHSH)** – Graduated in 2023
+
+# Work Experience
+
+# Lectures & Speech
+
+# Skills
+
+# Accomplishments
+
+# Event Organization & Execution
+
+# Certifications
+
+# Others
+
+
+
+
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
