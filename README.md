@@ -1,5 +1,5 @@
 <h1 align="center">Hi👋, I'm NZ</h1>
-<h5 align="center">🔒Cybersecurity🔒, 🔗Networking🔗 , 💻Programming💻</h5>
+<h4 align="center">🔒Cybersecurity🔒, 🔗Networking🔗 , 💻Programming💻</h5>
 
 ---
 
@@ -13,7 +13,7 @@
 🏫 **Hsin Hua Senior High School (HHSH)** – Graduated in 2023
 
 # Work Experience
-🔧 臺師大資訊中心－網路組工讀生 (2024～now)
+🔧 臺師大資訊中心－網路組工讀生 (2024～now) [NTNU-NA](https://github.com/NTNU-NA)
 
 # Lectures & Speech
 - 臺師大資工營 資安課程講師 (2024/07)
@@ -21,7 +21,7 @@
 - 新化高中資訊研究社 社長 (2021/09～2022/6)
 
 # Skills
-- C、Python
+- C、C++、Python
 - Information Security Governance
 
 # Accomplishments
