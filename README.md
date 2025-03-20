@@ -62,8 +62,8 @@
 
 # Others
 - 2023 特殊選才入取國立臺灣師範大學資訊工程學系－資安組
-- 第九屆臺灣好厲駭 學員
-- 第八屆臺灣好厲駭 學員
+- 第九屆臺灣好厲駭 學員 (2024/09～2025/8)
+- 第八屆臺灣好厲駭 學員 (2023/09～2024/8)
 - 2022 AIS3 新型態資安暑期課程 學員
 - 2023 臺師大運動會 鉛球男乙組 第八名
 - 參加台灣網路資訊中心 台灣網路人才培育研習營 (2025/02)
@@ -72,9 +72,11 @@
 - 參加開放文化基金會 OCF 培訓工作坊：備份 3-2-1 與災後復原 (2024/05)
 - 參加 g0v Summit 2024 (2024/05)
 - 參加中華民國資訊安全學會 2024 金融資安研習營 (2024/01)
-- 協助台南市政府警察局新化分局「 2022 暑期保護青少年－青春專案」之專案規劃執行
+- 協助台南市政府警察局新化分局「 2022 暑期保護青少年－青春專案」之專案規劃執行 (2022/07～2022/08)
 - 參加 CYBERSEC 、 AWS 台灣雲端高峰會 、 Google Cloud Summit Taipei
 - 參訪 LINE Taiwan
+
+![NZ's GitHub stats](https://github-readme-stats.vercel.app/api?username=su-nz&hide=stars&show_icons=true&count_private=true&theme=algolia)
 
 
 
@@ -88,3 +90,5 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+![](https://komarev.com/ghpvc/?username=su-nz&color=green)
