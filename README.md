@@ -81,6 +81,7 @@
 - 參加中華民國資訊安全學會 2024 金融資安研習營 (2024/01)
 - 協助台南市政府警察局新化分局「 2022 暑期保護青少年－青春專案」之專案規劃執行 (2022/07～2022/08)
 - 參加 CYBERSEC 、 AWS 台灣雲端高峰會 、 Google Cloud Summit Taipei
+- 參加 TWNIC 網路治理交流論壇 (2025/04)
 - 參訪 LINE Taiwan
 
 ![NZ's GitHub stats](https://github-readme-stats.vercel.app/api?username=su-nz&hide=stars&show_icons=true&count_private=true&theme=algolia)
