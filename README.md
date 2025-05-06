@@ -26,6 +26,7 @@
 - Information Security Governance
 
 # Accomplishments
+- 2025 NTNU CSIE Normal Game Jam 第四名
 - 2025 AIS3 EOF 決賽入圍
 - 臺師大第十二屆程式設計通識課程 專題佳作
 - 112 年度 iPAS 能力鑑定在學獲證榜首 中級鑑定 資訊安全工程師
