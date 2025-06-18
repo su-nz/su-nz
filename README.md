@@ -13,7 +13,8 @@
 🏫 **Hsin Hua Senior High School (HHSH)** – Graduated in 2023
 
 # Work Experience
-🔧 臺師大資訊中心－網路組工讀生 (2024～now) [NTNU-NA](https://github.com/NTNU-NA)
+🔧 臺師大資訊中心－網路組工讀生 (2024～now) [NTNU-NA](https://github.com/NTNU-NA) 
+
 🔧 資策會－AI 資安研發工程師實習生 (2025/07～2025/08)
 
 # Lectures & Speech
