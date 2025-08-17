@@ -4,7 +4,7 @@
 ---
 
 - 🌱 I’m currently learning **Network-Administration, Cybersecurity**
-- 💬 Ask me about **Netflix, TV series, Musical theater**
+- 💬 Feel free to chat with me about **Netflix, Musical theater**
 
 ---
 
