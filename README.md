@@ -108,6 +108,13 @@
 15. 綠光劇團《人間條件四》
 16. 果陀百娛股份有限公司《三個傻瓜》
 17. 躍演《完美陌生人》
+18. ---待看---
+19. 台南人劇團《Reality No-Show》
+20. 綠光劇團《八月，在我家》
+21. 三點水製藝文化有限公司《神明便利商店》
+22. 相聲瓦舍《狐說》
+23. 唱歌集音樂劇場《以為是BL結果是BFF》
+24. 唱歌集音樂劇場《今晚，我想來點》
 
 ![NZ's GitHub stats](https://github-readme-stats.vercel.app/api?username=su-nz&hide=stars&show_icons=true&count_private=true&theme=algolia)
 
