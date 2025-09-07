@@ -111,12 +111,12 @@
 18. 故事工廠《火神的眼淚》
 19. 台南人劇團《Reality No-Show》
 20. 華文環球藝術娛樂股份有限公司《囍宴 The Wedding Banquet 》
-21. ---待看---
-22. 綠光劇團《八月，在我家》
-24. 三點水製藝文化有限公司《神明便利商店》
-25. 相聲瓦舍《狐說》
-26. 唱歌集音樂劇場《以為是BL結果是BFF》
-27. 唱歌集音樂劇場《今晚，我想來點》
+21. 綠光劇團《八月，在我家》
+22. 三點水製藝文化有限公司《神明便利商店》
+---待看---
+23. 相聲瓦舍《狐說》
+24. 唱歌集音樂劇場《以為是BL結果是BFF》
+25. 唱歌集音樂劇場《今晚，我想來點》
 
 ![NZ's GitHub stats](https://github-readme-stats.vercel.app/api?username=su-nz&hide=stars&show_icons=true&count_private=true&theme=algolia)
 
