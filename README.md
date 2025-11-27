@@ -26,8 +26,10 @@
 - 新化高中資訊研究社 社長 (2021/09～2022/6)
 
 # Skills
-- C、C++、Python
-- Information Security Governance
+- Programming : C, C++, Python
+- Cloud & Network : Cloudflare (Workers/DNS), GCP, Tor Relay, Tailscale
+- System & Infra : Linux (Ubuntu, Tails), Proxmox VE, VirtualBox, Docker, Git
+- Hardware : Ethernet Cabling, Server Maintenance, Network Configuration
 
 # Accomplishments
 - 2025 NTNU CSIE Normal Game Jam 第四名
