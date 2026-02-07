@@ -32,6 +32,7 @@
 - Hardware : Ethernet Cabling, Server Maintenance, Network Configuration
 
 # Accomplishments
+- 第20屆資安技能金盾獎 大專院校組 嶄露頭角獎
 - 2025 NTNU CSIE Normal Game Jam 第四名
 - 2025 AIS3 EOF 決賽入圍
 - 臺師大第十二屆程式設計通識課程 專題佳作
