@@ -107,7 +107,7 @@
 3. 兄弟班藝術會（澳門）《北緯22°咖啡店》
 4. 躍演《勸世三姊妹》
 5. GWB娛樂製作公司《西貢小姐》
-6. 表演工作坊《圓環物語》
+6. 表演工作坊文化創意股份有限公司《圓環物語》
 7. 綠光劇團《人間條件一》
 8. 全民大劇團《腦內失控的iTunes》 
 9. A劇團《墜落之前》
@@ -129,7 +129,13 @@
 25. 唱歌集音樂劇場《今晚，我想來點》
 26. C MUSICAL製作《我的遺願清單》
 
-![NZ's GitHub stats](https://github-readme-stats.vercel.app/api?username=su-nz&hide=stars&show_icons=true&count_private=true&theme=algolia)
+2026 待看
+
+28. C MUSICAL製作《有真與有真》* 2 場
+29. 表演工作坊文化創意股份有限公司《江／雲．之／間》
+30. 瘋戲樂工作室《櫻子媽媽與她的三個男人》
+31. 活界創造股份有限公司《I Love You, You’re Perfect, Now Change》* 2 場
+32. 艾彼新創股份有限公司《婚內失戀》
 
 
 
