@@ -88,7 +88,7 @@
 - 臺師大 114 學年度 第 2 學期 STAR 星辰獎學金
 
 # Others
-- NetMission Academy 2026 學員
+- NetMission Academy 2026 學員 [連結](https://netmission.asia/netmission-ambassadors-2025-2026/#:~:text=of%20forced%20marriage.-,En%2DLi%20Su,-is%20a%20Computer)
 - 2025 Local APIGA Taiwan 學員 (2025/04/19～2025/04/20)
 - 2023 特殊選才錄取國立臺灣師範大學資訊工程學系－資安組
 - 第十屆臺灣好厲駭 學員 (2025/09～2026/8)
