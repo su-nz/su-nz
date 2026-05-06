@@ -100,7 +100,7 @@
 - 2025 臺師大運動會 鉛球男乙組 第七名
 - 2023 臺師大運動會 鉛球男乙組 第八名
 - 參加 2025資策會 i-STAR 系列活動-資安 Open Day (2025/03)
-- 參加 台灣網路資訊中心 台灣網路人才培育研習營 (2025/02) [心得](https://www.facebook.com/suenlitn/posts/pfbid02zCbEUmLXC7zEk5SuJD7PUTXSee13hHnKgzpzHrV4Nk2B9LqutnTQ39oaHZVRS9v9l?rdid=ntDejPfyKlUO0gFO#)
+- 參加 台灣網路資訊中心 台灣網路人才培育研習營 (2025/02) [心得文章](https://www.facebook.com/suenlitn/posts/pfbid02zCbEUmLXC7zEk5SuJD7PUTXSee13hHnKgzpzHrV4Nk2B9LqutnTQ39oaHZVRS9v9l?rdid=ntDejPfyKlUO0gFO#)
 - 參加 教育部先進資通安全實務人才培育計畫 FinTech Summer CAMP (2024/08)
 - 參加 開放文化基金會 公民組織的數位安全：從零開始的防禦指南 (2024/07)
 - 參加 開放文化基金會 OCF 培訓工作坊：備份 3-2-1 與災後復原 (2024/05)
