@@ -12,6 +12,7 @@
 |---|---|---|---|
 |ntnu.cc|師大短網址服務|[網站](https://ntnu.cc/)|[GitHub](https://github.com/su-nz/ntnu.cc)|
 |public-icon.tw|台灣公共圖標導覽與下載平台|[網站](https://public-icon.tw/)|[GitHub](https://github.com/su-nz/public-icon.tw)|
+|Tor relay @ NTNU|師大 Tor 節點|[觀測網站](https://metrics.torproject.org/rs.html#details/0B6827FEDC0FBB431B3617BBAA4C4B2372724D24)|[節點網頁](http://tor.csie.ntnu.edu.tw:9030/)|
 ---
 
 # Education
@@ -39,6 +40,7 @@
 
 # Accomplishments
 - 第20屆資安技能金盾獎 大專院校組 嶄露頭角獎
+- 臺師大架設 Tor Relay 之採訪文章 [Tor Blog](https://blog.torproject.org/setting-up-tor-university-relay-taiwan/) [匿名網路社群](https://anoni.net/docs/blog/2025/12/ntnu-nz/)
 - 2025 NTNU CSIE Normal Game Jam 第四名
 - 2025 AIS3 EOF 決賽入圍
 - 臺師大第十二屆程式設計通識課程 專題佳作
@@ -98,7 +100,7 @@
 - 2025 臺師大運動會 鉛球男乙組 第七名
 - 2023 臺師大運動會 鉛球男乙組 第八名
 - 參加 2025資策會 i-STAR 系列活動-資安 Open Day (2025/03)
-- 參加 台灣網路資訊中心 台灣網路人才培育研習營 (2025/02)
+- 參加 台灣網路資訊中心 台灣網路人才培育研習營 (2025/02) [心得](https://www.facebook.com/suenlitn/posts/pfbid02zCbEUmLXC7zEk5SuJD7PUTXSee13hHnKgzpzHrV4Nk2B9LqutnTQ39oaHZVRS9v9l?rdid=ntDejPfyKlUO0gFO#)
 - 參加 教育部先進資通安全實務人才培育計畫 FinTech Summer CAMP (2024/08)
 - 參加 開放文化基金會 公民組織的數位安全：從零開始的防禦指南 (2024/07)
 - 參加 開放文化基金會 OCF 培訓工作坊：備份 3-2-1 與災後復原 (2024/05)
