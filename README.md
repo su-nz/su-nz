@@ -144,7 +144,7 @@
 27. C MUSICAL製作《有真與有真》* 2 場
 28. 表演工作坊文化創意股份有限公司《江／雲．之／間》
 29. 瘋戲樂工作室《櫻子媽媽與她的三個男人》
-30. 活界創造股份有限公司《I Love You, You’re Perfect, Now Change》* 2 場
+30. 活界創造股份有限公司《I Love You, You’re Perfect, Now Change》
 31. 艾彼新創股份有限公司《婚內失戀》
 
 
