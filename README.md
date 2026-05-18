@@ -51,7 +51,8 @@
 - 109 學年度新化高中品德優良楷模
   
 # Event Organization & Execution
-- 師大林口校區雲端節能機房參訪活動 總籌 (2026/05)
+- TWNOG 7 資訊設施組組員 (2026/05) 
+- 師大林口校區雲端節能機房參訪活動 總籌 (2026/05) [心得文章](https://www.facebook.com/share/p/1AugJaESE3/) [活動紀錄影片](https://youtu.be/ZOui3UqwLL4?si=gwQ9mv6K8yH3vFO9)
 - AsiaBSDCon 2026 Staff (2026/03)
 - Google Developer Groups on Canpus NTNU 行銷長(2025/09～now)
 - 2025世界急救日「閃電CPR挑戰」後勤組組員(2025/09)
