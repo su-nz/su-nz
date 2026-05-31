@@ -51,6 +51,7 @@
 - 109 學年度新化高中品德優良楷模
   
 # Event Organization & Execution
+- 臺師大資工系小畢典 製播組 (2026/05)
 - TWNOG 7 資訊設施組組員 (2026/05) 
 - 師大林口校區雲端節能機房參訪活動 總籌 (2026/05) [心得文章](https://www.facebook.com/share/p/1AugJaESE3/) [活動紀錄影片](https://youtu.be/ZOui3UqwLL4?si=gwQ9mv6K8yH3vFO9)
 - AsiaBSDCon 2026 Staff (2026/03)
@@ -94,6 +95,7 @@
 - 臺師大 114 學年度 第 2 學期 STAR 星辰獎學金
 
 # Others
+- 教育部青年百億海外圓夢基金計畫 I-8-26 加拿大資安工作坊(2026/07～2026/08)
 - NetMission Academy 2026 學員 [官方連結](https://netmission.asia/netmission-ambassadors-2025-2026/#:~:text=of%20forced%20marriage.-,En%2DLi%20Su,-is%20a%20Computer)
 - 2025 Local APIGA Taiwan 學員 (2025/04/19～2025/04/20) [心得文章](https://hackmd.io/@SNZ/2025-local-APIGA-Taiwan)
 - 2023 特殊選才錄取國立臺灣師範大學資訊工程學系－資安組
