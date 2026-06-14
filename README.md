@@ -95,7 +95,8 @@
 - 臺師大 114 學年度 第 2 學期 STAR 星辰獎學金
 
 # Others
-- 教育部青年百億海外圓夢基金計畫 I-8-26 加拿大資安工作坊(2026/07～2026/08)
+- 教育部青年百億海外圓夢基金計畫 I-8-26 加拿大資安工作坊 正取(2026/07～2026/08)
+- 教育部青年百億海外圓夢基金計畫 G-9-2 數位韌性Ｘ青年行動 備取
 - NetMission Academy 2026 學員 [官方連結](https://netmission.asia/netmission-ambassadors-2025-2026/#:~:text=of%20forced%20marriage.-,En%2DLi%20Su,-is%20a%20Computer)
 - 2025 Local APIGA Taiwan 學員 (2025/04/19～2025/04/20) [心得文章](https://hackmd.io/@SNZ/2025-local-APIGA-Taiwan)
 - 2023 特殊選才錄取國立臺灣師範大學資訊工程學系－資安組
