@@ -12,6 +12,7 @@
 |---|---|---|---|
 |ntnu.cc|師大短網址服務|[網站](https://ntnu.cc/)|[GitHub](https://github.com/su-nz/ntnu.cc)|
 |dashboard.ntnu.cc|校園網路品質監測與分析平台|[網站](https://dashboard.ntnu.cc/)|[GitHub](https://github.com/su-nz/NTNU_Dashboard)|
+|domain.ntnu.cc|子網域申請與管理平台|[網站](https://domain.ntnu.cc/)|[GitHub](https://github.com/su-nz/domain.ntnu.cc)|
 |public-icon.tw|台灣公共圖標導覽與下載平台|[網站](https://public-icon.tw/)|[GitHub](https://github.com/su-nz/public-icon.tw)|
 |Tor relay @ NTNU|師大 Tor 節點|[觀測網站](https://metrics.torproject.org/rs.html#details/0B6827FEDC0FBB431B3617BBAA4C4B2372724D24)|[節點網頁](http://tor.csie.ntnu.edu.tw:9030/)|
 ---
