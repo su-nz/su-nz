@@ -27,6 +27,7 @@
 🔧 資策會－AI 資安研發工程師實習生 (2025/07～2025/08)
 
 # Lectures & Speech
+- COSCUP 2026 在學校種洋蔥？臺師大 Tor 節點建立實務與 EFF Tor University Challenge 經驗談 (2026/08)
 - 臺師大南友會返鄉服務隊 急救培訓講師 (2025/11)
 - Google Developer Groups on Canpus NTNU 匿名網路工作坊 (2025/09、2025/11)
 - 臺師大資工營 通識課程講師 (2025/07)
