@@ -154,6 +154,9 @@
 29. 瘋戲樂工作室《櫻子媽媽與她的三個男人》
 30. 活界創造股份有限公司《I Love You, You’re Perfect, Now Change》
 31. 艾彼新創股份有限公司《婚內失戀》
+32. 全民大劇團《在哪裡跌倒，就在哪裡躺一下》
+33. Stanley BFL CANADA Stage《Come From Away》
+34. Lindsay Family Stage at Granville Island《The Play That Goes Wrong Relax》
 
 
 <h3 align="left">Connect with me:</h3>
