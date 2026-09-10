@@ -22,6 +22,8 @@
 🏫 **Hsin Hua Senior High School (HHSH)** – Graduated in 2023
 
 # Work Experience
+🔧 師大資工軟體工程－助教 (2026/09～2026/12)
+
 🔧 臺師大資訊中心－網路組工讀生 (2024～now) [NTNU-NA](https://github.com/NTNU-NA) 
 
 🔧 資策會－AI 資安研發工程師實習生 (2025/07～2025/08)
@@ -160,6 +162,9 @@
 33. Stanley BFL CANADA Stage《Come From Away》
 34. Lindsay Family Stage at Granville Island《The Play That Goes Wrong Relax》
 35. 躍演《勸世三姊妹》
+
+# 爬山
+1. 無耳茶壺山
 
 
 <h3 align="left">Connect with me:</h3>
