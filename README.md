@@ -44,6 +44,7 @@
 - Hardware : Ethernet Cabling, Server Maintenance, Network Configuration
 
 # Accomplishments
+- 臺師大第十六屆程式設計通識課程 專題特優獎
 - 第20屆資安技能金盾獎 大專院校組 嶄露頭角獎
 - 臺師大架設 Tor Relay 之採訪文章 [Tor Blog](https://blog.torproject.org/setting-up-tor-university-relay-taiwan/) [匿名網路社群](https://anoni.net/docs/blog/2025/12/ntnu-nz/)
 - 2025 NTNU CSIE Normal Game Jam 第四名
